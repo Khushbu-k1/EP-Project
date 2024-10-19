@@ -1,0 +1,14 @@
+@charset "UTF-8";
+cse
+{
+  background-color: yellow;
+}
+rollno
+{
+  background-color: green;
+}
+
+rollno,sname
+{
+  display:block;
+}
